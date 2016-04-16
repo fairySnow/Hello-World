@@ -1,3 +1,3 @@
 do
-	msgbox "You are foolish!" 
+msgbox "You are foolish!" 
 loop 
